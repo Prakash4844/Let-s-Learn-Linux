@@ -2,10 +2,36 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
-
 # Change the default theme to be use when building the site with Hugo
 theme = "relearn"
 
 # For search functionality
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
+home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE", "PRINT"]
+section = ["HTML", "RSS", "PRINT"]
+page = ["HTML", "RSS", "PRINT"]
+
+
+[params]
+author = "Prakash4844"
+
+# Description of the site, will be used in meta information
+description = "This site is an attempt to revive the Famous Website 'LinuxJourney' and inherit the text data from it's repository."
+
+# Shows a checkmark for visited pages on the menu
+showVisitedLinks = false
+
+# Disable search function. It will hide search bar
+disableSearch = false
+
+# Change default color scheme with a variant one. Eg. can be "red", "blue", "green" or an array like [ "blue", "green" ].
+themeVariant = ["red", "blue", "green", "relearn-dark", "relearn-light"]
+
+# Change the title separator. Default to "::".
+titleSeparator = "-"
+
+# If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
+collapsibleMenu = true
+
+canonifyURLs = true
+relativeURLs = true
