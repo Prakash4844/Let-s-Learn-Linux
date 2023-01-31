@@ -14,7 +14,7 @@ page = ["HTML", "RSS", "PRINT"]
 
 [params]
 author = "Prakash4844"
-
+alwaysopen = false
 # Description of the site, will be used in meta information
 description = "This site is an attempt to revive the Famous Website 'LinuxJourney' and inherit the text data from it's repository."
 
