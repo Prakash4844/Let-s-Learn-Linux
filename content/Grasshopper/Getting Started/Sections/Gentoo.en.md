@@ -2,6 +2,7 @@
 archetype = "chapter"
 title = "Gentoo"
 weight = 8
+menuPre = "<i class='fl-gentoo'></i> "
 +++
 
 ## Lesson Content

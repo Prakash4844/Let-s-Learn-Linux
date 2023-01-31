@@ -1,9 +1,9 @@
----
-archetype: "chapter"
-title: "Linux History"
-date: 2023-01-29T11:20:16+05:30
-weight: 1
----
++++
+archetype = "chapter"
+title = "Linux History"
+date = 2023-01-29T11:20:16+05:30
+weight = 1
++++
 
 ## Lesson Content
 

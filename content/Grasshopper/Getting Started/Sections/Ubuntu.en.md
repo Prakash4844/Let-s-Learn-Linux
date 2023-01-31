@@ -2,6 +2,7 @@
 archetype = "chapter"
 title = "Ubuntu"
 weight = 5
+menuPre = "<i class='fl-ubuntu'></i> "
 +++
 
 ## Lesson Content

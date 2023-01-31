@@ -1,10 +1,10 @@
----
-archetype: "chapter"
-title: "Debian"
-date: 2023-01-29T11:46:12+05:30
-# draft: true
-weight: 3
----
++++
+archetype = "chapter"
+title = "Debian"
+date = 2023-01-29T11:46:12+05:30
+weight = 3
+menuPre = "<i class='fl-debian'></i> "
++++
 
 ## Lesson Content
 

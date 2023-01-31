@@ -3,7 +3,7 @@ archetype = "home"
 title = "Let's Learn Linux"
 +++
 
-![Test](Logo.png?width=20vw) 
+![Test](/static/images/logos/LogoV4.svg?width=20vw)
 
 ## Grasshopper
 

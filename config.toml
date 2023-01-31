@@ -25,7 +25,7 @@ showVisitedLinks = false
 disableSearch = false
 
 # Change default color scheme with a variant one. Eg. can be "red", "blue", "green" or an array like [ "blue", "green" ].
-themeVariant = ["red", "blue", "green", "relearn-dark", "relearn-light"]
+themeVariant = ["relearn-dark", "relearn-light","red", "blue", "green","neon", "learn"]
 
 # Change the title separator. Default to "::".
 titleSeparator = "-"
