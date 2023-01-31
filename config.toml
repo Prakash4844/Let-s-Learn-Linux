@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Let's Learn Linux "
 
 # Change the default theme to be use when building the site with Hugo
 theme = "relearn"
