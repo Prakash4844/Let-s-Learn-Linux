@@ -1,7 +1,7 @@
 ---
+archetype: "chapter"
 title: "Linux History"
 date: 2023-01-29T11:20:16+05:30
-# draft: true
 weight: 1
 ---
 

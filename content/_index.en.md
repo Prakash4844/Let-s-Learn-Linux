@@ -3,6 +3,8 @@ archetype = "home"
 title = "Let's Learn Linux"
 +++
 
+![Test](Logo.png?width=20vw) 
+
 ## Grasshopper
 
 * Getting Started - What is Linux? Get started with choosing a distribution and installation.

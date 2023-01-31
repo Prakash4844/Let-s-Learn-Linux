@@ -1,4 +1,5 @@
 ---
+archetype: "chapter"
 title: "Choosing a Linux Distribution"
 date: 2023-01-29T11:36:54+05:30
 # draft: true

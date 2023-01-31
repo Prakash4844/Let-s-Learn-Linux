@@ -1,4 +1,5 @@
 ---
+archetype: "chapter"
 title: "Debian"
 date: 2023-01-29T11:46:12+05:30
 # draft: true
