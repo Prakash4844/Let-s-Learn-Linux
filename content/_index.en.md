@@ -7,7 +7,7 @@ title = "Let's Learn Linux"
 
 ## Grasshopper
 
-* Getting Started - What is Linux? Get started with choosing a distribution and installation.
+* [Getting Started]( {{< relref "content/1. Grasshopper/Getting Started/_index.en.md" >}} )- What is Linux? Get started with choosing a distribution and installation.
 
 * Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
 

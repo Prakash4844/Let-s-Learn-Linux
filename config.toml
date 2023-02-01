@@ -28,10 +28,13 @@ disableSearch = false
 themeVariant = ["relearn-dark", "relearn-light","red", "blue", "green","neon", "learn"]
 
 # Change the title separator. Default to "::".
-titleSeparator = "-"
+titleSeparator = "::"
 
 # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
 collapsibleMenu = true
 
 canonifyURLs = true
 relativeURLs = true
+
+disableSeoHiddenPages = true
+ordersectionsby = "title"
