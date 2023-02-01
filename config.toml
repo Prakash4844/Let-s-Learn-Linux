@@ -7,6 +7,10 @@ theme = "relearn"
 
 # For search functionality
 [outputs]
+# add JSON to the home to support lunr search; This is a mandatory setting
+# for the search functionality
+# add PRINT to home, section and page to activate the feature to print whole
+# chapters
 home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE", "PRINT"]
 section = ["HTML", "RSS", "PRINT"]
 page = ["HTML", "RSS", "PRINT"]
@@ -33,8 +37,61 @@ titleSeparator = "::"
 # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
 collapsibleMenu = true
 
-canonifyURLs = true
-relativeURLs = true
+# canonicalization will only be used for the sitemap.xml and index.xml files;
+# if set to false, a site served from a subdirectory will generate wrong links
+# inside of the above mentioned files; if you serve the page from the servers root
+# you are free to set the value to false as recommended by the official Hugo documentation
+canonifyURLs = true # true -> all relative URLs would instead be canonicalized using baseURL
+
+# required value to serve this page from a webserver AND the file system;
+# if you don't want to serve your page from the file system, you can also set this value
+# to false
+relativeURLs = true # true -> rewrite all relative URLs to be relative to the current content
+
+# if you set uglyURLs to false, this theme will append 'index.html' to any branch bundle link
+# so your page can be also served from the file system; if you don't want that,
+# set disableExplicitIndexURLs=true in the [params] section
+
+uglyURLs = false     # true -> basic/index.html -> basic.html
+
+# We disable this for testing the exampleSite; you must do so too
+# if you want to use the themes parameter disableGeneratorVersion=true;
+# otherwise Hugo will create a generator tag on your home page
+disableHugoGeneratorInject = true
 
 disableSeoHiddenPages = true
 ordersectionsby = "title"
+
+[Languages]
+  [Languages.en]
+    title = "Let's Learn Linux"
+    weight = 1
+    languageName = "English"
+    landingPageName = "<i class='fas fa-home'></i> Home"
+
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+    identifier = "ds"
+    url = "https://github.com/Prakash4844/Let-s-Learn-Linux"
+    weight = 10
+
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
+    url = "https://github.com/McShelby/hugo-theme-relearn"
+    weight = 11
+
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+    identifier = "hugodoc"
+    url = "https://gohugo.io/"
+    weight = 20
+
+  # [[Languages.en.menu.shortcuts]]
+  #   name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+  #   url = "more/credits/"
+  #   weight = 30
+  #
+  # [[Languages.en.menu.shortcuts]]
+  #   name = "<i class='fas fa-fw fa-tags'></i> Tags"
+  #   url = "tags/"
+  #   weight = 40
