@@ -13,9 +13,7 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 
 ## Website is Currently Live at [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/)
 
-![Site Screenshot](https://user-images.githubusercontent.com/81550376/217016450-7e88ab2e-f003-41f5-a737-747de95ba078.png)
-
-
+![Site Screenshot](https://user-images.githubusercontent.com/81550376/217021343-cba02685-8418-48ae-afeb-e0dc2993d53d.png)
 
 - Website Uses Hugo version 0.109.0, [Checkout it out](https://gohugo.io/)
 - And Hugo Relearn Theme, [Checkout it out](https://github.com/McShelby/hugo-theme-relearn)
