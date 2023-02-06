@@ -16,5 +16,5 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 ![Site Screenshot](https://user-images.githubusercontent.com/81550376/217000389-f01db228-bc83-4091-88d3-35c926c2c56c.png)
 
 
-- Website Uses Hugo version 0.109.0
-- And Hugo Relearn Theme
+- Website Uses Hugo version 0.109.0, [Checkout it out](https://gohugo.io/)
+- And Hugo Relearn Theme, [Checkout it out](https://github.com/McShelby/hugo-theme-relearn)
