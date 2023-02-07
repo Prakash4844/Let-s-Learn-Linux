@@ -77,13 +77,13 @@ ordersectionsby = "title"
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
-    url = "https://github.com/McShelby/hugo-theme-relearn"
+    url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
     weight = 11
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
     identifier = "hugodoc"
-    url = "https://gohugo.io/"
+    url = "https://gohugo.io/documentation/"
     weight = 20
 
   # [[Languages.en.menu.shortcuts]]
