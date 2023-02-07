@@ -18,5 +18,5 @@ title = "Grasshopper"
 * Processes - Learn about the running processes on the system.
 
 * Packages - Learn all about the dpkg, apt-get, rpm and yum package management tools.
-  
+
 This is first unit, it is aimed to make you comfortable with linux environment. So let's Learn Linux... 
