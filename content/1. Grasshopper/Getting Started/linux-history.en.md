@@ -29,4 +29,19 @@ Additional reading:
 
 ## Quiz Question
 
-{{% expand title="Who developed the Linux kernel?" %}}Linus Torvalds{{% /expand %}}
+{{< quizdown >}}
+
+---
+primary_color: green
+secondary_color: black
+text_color: white
+shuffle_questions: true
+---
+# Who developed the Linux kernel?
+
+> He also developed GitHub
+
+1. [ ] Dennis Ritchie
+1. [ ] Bjarne Stroustrup
+1. [ ] Steve Jobs
+1. [x] Linus Torvalds
