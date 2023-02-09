@@ -19,7 +19,7 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 
 ## Resources:
 - Content is borrowed from [LinuxJourney](https://github.com/cindyq/linuxjourney)
-- Website Uses Hugo version 0.109.0, [Check it out](https://gohugo.io/)
+- Website Uses Hugo version 0.110.0, [Check it out](https://gohugo.io/)
 - And Hugo Relearn Theme, [Check it out](https://github.com/McShelby/hugo-theme-relearn)
 - Font Linux, [Check it out](https://github.com/lkundrak/font-linux)
 - Hugo QuizDown [Check it out](https://github.com/bonartm/hugo-quiz)
