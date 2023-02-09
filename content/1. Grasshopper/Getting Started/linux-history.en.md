@@ -39,7 +39,7 @@ shuffle_questions: true
 ---
 # Who developed the Linux kernel?
 
-> He also developed GitHub
+> He also developed Git SCM
 
 1. [ ] Dennis Ritchie
 1. [ ] Bjarne Stroustrup
