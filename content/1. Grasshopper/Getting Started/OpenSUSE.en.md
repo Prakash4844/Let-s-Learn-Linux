@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "OpenSUSE"
 weight = 10
 menuPre = "<i class='fl-opensuse'></i> "

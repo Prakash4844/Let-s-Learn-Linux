@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Fedora"
 weight = 6
 menuPre = "<i class='fl-fedora'></i> "
