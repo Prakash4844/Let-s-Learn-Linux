@@ -1,8 +1,13 @@
 +++
-archetype = "chapter"
+archetype = "page"
 title = "Linux History"
 date = 2023-01-29T11:20:16+05:30
 weight = 1
+# Below is styling for Quizdown
+primary_color = "green"
+secondary_color = "lightgray"
+text_color = "Black"
+shuffle_questions = "true"
 +++
 
 ## Lesson Content
@@ -31,12 +36,6 @@ Additional reading:
 
 {{< quizdown >}}
 
----
-primary_color: green
-secondary_color: lightgray
-text_color: Black
-shuffle_questions: true
----
 # Who developed the Linux kernel?
 
 > He also developed Git SCM

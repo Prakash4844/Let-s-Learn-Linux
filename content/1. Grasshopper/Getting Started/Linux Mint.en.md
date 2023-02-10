@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Linux Mint"
 weight = 7
 menuPre = "<i class='fl-linuxmint'></i> "

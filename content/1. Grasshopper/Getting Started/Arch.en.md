@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Arch"
 weight = 9
 menuPre = "<i class='fl-archlinux'></i> "

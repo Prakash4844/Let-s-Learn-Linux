@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Red Hat Enterprise Linux (RHEL)"
 weight = 4
 menuPre = "<i class='fl-redhat'></i> "
