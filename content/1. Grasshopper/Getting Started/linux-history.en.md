@@ -33,8 +33,8 @@ Additional reading:
 
 ---
 primary_color: green
-secondary_color: black
-text_color: white
+secondary_color: lightgray
+text_color: Black
 shuffle_questions: true
 ---
 # Who developed the Linux kernel?
