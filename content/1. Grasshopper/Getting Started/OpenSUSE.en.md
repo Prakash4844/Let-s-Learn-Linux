@@ -20,7 +20,7 @@ openSUSE Leap is fully capable of being used on a desktop PC and laptop.
 
 ## Exercise
 
-If you're interested in having openSUSE as your operating system, head over to the download page and give it a try: <a href='https://software.opensuse.org/'>software.opensuse.org</a>
+If you're interested in having openSUSE as your operating system, head over to the download page and give it a try: <a href='https://www.opensuse.org/'>https://www.opensuse.org/</a>
 
 ## Quiz Questions
 
