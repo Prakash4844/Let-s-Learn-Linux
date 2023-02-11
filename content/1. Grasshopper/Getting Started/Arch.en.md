@@ -24,4 +24,13 @@ If you're interested in having Arch as your operating system, head over to the i
 
 ## Quiz Questions
 
-{{% expand title="What package manager does Arch Linux use?" %}}Pacman{{% /expand %}}
+{{< quizdown >}}
+
+# What package manager does Arch Linux use?
+
+> I use arch btw 😎.
+
+1. [ ] dpkg
+1. [ ] OpenPKG
+1. [x] Pacman
+1. [ ] RPM

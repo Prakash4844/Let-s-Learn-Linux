@@ -24,4 +24,13 @@ If you're interested in having Fedora as your operating system, head over to the
 
 ## Quiz Questions
 
-{{% expand title="What is RHEL branched off of?" %}}Fedora{{% /expand %}}
+{{< quizdown >}}
+
+# What is RHEL branched off of?
+
+> It is test bed for Red Hat Enterprise Linux.
+
+1. [ ] Debian
+2. [ ] Arch
+3. [ ] OpenSUSE
+4. [x] Fedora

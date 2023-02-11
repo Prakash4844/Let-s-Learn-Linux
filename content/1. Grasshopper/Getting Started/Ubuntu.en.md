@@ -24,4 +24,13 @@ If you're interested in having Ubuntu as your operating system, head over to the
 
 ## Quiz Questions
 
-{{% expand title="What operating system is Ubuntu based off of?" %}}Debian{{% /expand %}}
+{{< quizdown >}}
+
+# What operating system is Ubuntu based off of?
+
+> Pop!_ OS, Zorin OS, MX Linux and Kali Linux are also based on it.
+
+1. [ ] OpenSUSE
+1. [ ] Red Hat Enterprise Linux 
+1. [ ] Arch
+1. [x] Debian

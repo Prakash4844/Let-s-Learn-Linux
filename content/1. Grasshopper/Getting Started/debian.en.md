@@ -27,4 +27,13 @@ If you're interested in having Debian as your operating system, head over to the
 
 ## Quiz Question
 
-{{% expand title="What kind of release does Testing and Unstable have?" %}}Rolling{{% /expand %}}
+{{< quizdown >}}
+
+# What kind of release does Testing and Unstable have?
+
+> it is improved consistently without you having to reinstall whole OS.
+
+1. [ ] Point Release
+2. [x] Rolling Release
+
+Know More about [Rolling and Point Release](https://www.fosslinux.com/2805/linux-rolling-release-vs-point-release-and-which-is-better.htm).

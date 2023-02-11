@@ -23,6 +23,14 @@ Great for desktop and laptop.
 If you're interested in having Linux Mint as your operating system, head over to the installation section and give it a try: <a href='http://linuxmint.com/'>http://linuxmint.com/</a>
 
 ## Quiz Questions
-        
-{{% expand title="What is Linux Mint based off of?" %}}Ubuntu{{% /expand %}}
 
+{{< quizdown >}}
+
+# What is Linux Mint based off of?
+
+> It is arguably most popular linux distribution out there.
+
+1. [ ] ElementryOS
+1. [ ] RHEL
+1. [ ] Arch
+1. [x] Ubuntu
