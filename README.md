@@ -1,7 +1,6 @@
 <H1 align="center">Let's Learn Linux</H1>
 
-# Note: Linux Journey site is now online again, So development of this project might be really slow or not at all.
-
+#### Note: The Linux Journey site is now online again, so development of this project might be really slow or not at all.
 ### To clone Use following Method 
 
 #### 1. By Git Submodule init and Update method 
@@ -18,8 +17,8 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 ![Site Screenshot](https://user-images.githubusercontent.com/81550376/217021343-cba02685-8418-48ae-afeb-e0dc2993d53d.png)
 
 ## Resources:
-- Content is borrowed from [LinuxJourney](https://github.com/cindyq/linuxjourney)
+- Content is forked from [LinuxJourney](https://github.com/cindyq/linuxjourney)
 - Website Uses Hugo version 0.110.0, [Check it out](https://gohugo.io/)
 - And Hugo Relearn Theme, [Check it out](https://github.com/McShelby/hugo-theme-relearn)
-- Font Linux, [Check it out](https://github.com/lkundrak/font-linux)
+- Font Linux [Check it out](https://github.com/lkundrak/font-linux)
 - Hugo QuizDown [Check it out](https://github.com/bonartm/hugo-quiz)
