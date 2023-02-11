@@ -6,7 +6,7 @@ title = "Let's Learn Linux"
 ![Test](Logo.svg)
 
 {{% notice style="warning" title="Linux Journey is Back Online." icon="skull-crossbones" %}}
-Since, it was aim of this project to be a fallback in case of LinuxJourney Doesn't come back. So, there is actually no need to keep it around, so development of this project might be very slow or not at all.
+Because the goal of this project was to serve as a backup in case LinuxJourney did not return. So, there is actually no need to keep it around, so the development of this project might be very slow or not at all.
 {{% /notice %}}
 
 
