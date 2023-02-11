@@ -24,6 +24,16 @@ If you're interested in having openSUSE as your operating system, head over to t
 
 ## Quiz Questions
 
-{{% expand title="What is the name of openSUSE's Administration/Installation Tool?" %}}yast{{% /expand %}}
+{{< quizdown >}}
+
+# What is the name of openSUSE's Administration/Installation Tool?
+
+> 1. it helps to make sure that the configuration happens the right way.
+
+> 2. it can be summoned from the console (without any Desktop Environment present), so you can use this tool even on a headless server, or a system that suddenly doesn't boot into its graphical target.
+
+1. [ ] Zypper
+2. [ ] Mageia Control Center
+3. [x] yast
 
 

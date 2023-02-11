@@ -24,4 +24,18 @@ If you're interested in having Gentoo as your operating system, head over to the
 
 ## Quiz Questions
 
-{{% expand title="What package management system does Gentoo use?" %}}Portage{{% /expand %}}
+
+{{< quizdown >}}
+
+# What package management system does Gentoo use?
+
+> 1. Many Gentoo packages can pull the latest "head" version from a version control system such as git, to work on an upstream package, or if the latest version is needed for some reason.
+
+> 2. It is often possible to have multiple versions of packages installed at the same time, which makes testing against multiple versions of compilers, or interpreters, easy.
+
+> 3. It is arguably one of the best package manager out there.
+
+1. [ ] apt
+2. [ ] RPM
+3. [ ] Pacman
+4. [x] Portage

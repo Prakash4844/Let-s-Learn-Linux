@@ -38,7 +38,7 @@ Additional reading:
 
 # Who developed the Linux kernel?
 
-> He also developed Git SCM
+> He also developed Git SCM.
 
 1. [ ] Dennis Ritchie
 1. [ ] Bjarne Stroustrup

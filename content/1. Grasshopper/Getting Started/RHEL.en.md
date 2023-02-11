@@ -25,5 +25,13 @@ If you're interested in having RHEL as your operating system, head over to the i
 
 ## Quiz Questions
 
-{{% expand title="What package manager does RHEL use?" %}}RPM{{% /expand %}}
+{{< quizdown >}}
 
+# What package manager does RHEL use?
+
+> it is also used in Fedora, CentOS, OpenSUSE, OpenMandriva, and Oracle Linux.
+
+1. [ ] dpkg
+1. [ ] OpenPKG
+1. [ ] Pacman
+1. [x] RPM
