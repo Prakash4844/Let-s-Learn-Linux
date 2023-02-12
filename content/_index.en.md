@@ -12,7 +12,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 ## Grasshopper
 
-* [Getting Started]( {{< relref "content/1. Grasshopper/Getting Started/_index.en.md" >}} )- What is Linux? Get started with choosing a distribution and installation.
+* [Getting Started]( {{< relref "content/1. Grasshopper/1. Getting Started/_index.en.md" >}} )- What is Linux? Get started with choosing a distribution and installation.
 
 * Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
 
