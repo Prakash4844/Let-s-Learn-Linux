@@ -16,6 +16,10 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 
 ![Site Screenshot](https://user-images.githubusercontent.com/81550376/217021343-cba02685-8418-48ae-afeb-e0dc2993d53d.png)
 
+## Contriubution:
+- For info on How to contribute See this [Contributing.md](CONTRIBUTING.md)
+- For a list of Contributors See this [Contributors.md](Contributors.md)
+
 ## Resources:
 - Content is forked from [LinuxJourney](https://github.com/cindyq/linuxjourney)
 - Website Uses Hugo version 0.110.0, [Check it out](https://gohugo.io/)
