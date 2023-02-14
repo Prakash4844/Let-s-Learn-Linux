@@ -1,7 +1,9 @@
----
-title: "Networking Nomad"
-date: 2023-02-01T10:16:09+05:30
----
++++
+title = "3. Networking Nomad"
+date = 2023-02-01T10:16:09+05:30
+ordersectionsby = "weight"
+weight = 3
++++
 
 * Network Sharing - Learn about network sharing with rsync, scp, nfs and more.
 

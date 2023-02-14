@@ -1,7 +1,9 @@
----
-title: "Journeyman"
-date: 2023-02-01T10:15:35+05:30
----
++++
+title = "2. Journeyman"
+date = 2023-02-01T10:15:35+05:30
+ordersectionsby = "weight"
+weight = 2
++++
 
 * Devices - Learn about Linux devices and how they interact with the kernel and user space.
 

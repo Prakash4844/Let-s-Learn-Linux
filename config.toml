@@ -60,7 +60,7 @@ uglyURLs = false     # true -> basic/index.html -> basic.html
 disableHugoGeneratorInject = true
 
 disableSeoHiddenPages = true
-ordersectionsby = "title"
+ordersectionsby = "weight"
 
 [Languages]
   [Languages.en]
