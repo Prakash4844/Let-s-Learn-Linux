@@ -1,7 +1,8 @@
 +++
 archetype = "home"
-title = "Grasshopper"
+title = "1. Grasshopper"
 ordersectionsby = "weight"
+weight = 1
 +++
 
 * Getting Started - What is Linux? Get started with choosing a distribution and installation.

@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 weight = 2
-title = "Command Line"
+title = "2. Command Line"
 date = 2023-02-12T11:41:36+05:30
 ordersectionsby = "weight"
 +++
