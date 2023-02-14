@@ -62,12 +62,17 @@ disableHugoGeneratorInject = true
 disableSeoHiddenPages = true
 ordersectionsby = "weight"
 
+# English is the default language
+defaultContentLanguage = "en"
+
 [Languages]
   [Languages.en]
     title = "Let's Learn Linux"
     weight = 1
     languageName = "English"
     landingPageName = "<i class='fas fa-home'></i> Home"
+    contentDir = "content/english"
+
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
@@ -86,12 +91,25 @@ ordersectionsby = "weight"
     url = "https://gohugo.io/documentation/"
     weight = 20
 
-  # [[Languages.en.menu.shortcuts]]
-  #   name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-  #   url = "more/credits/"
-  #   weight = 30
-  #
-  # [[Languages.en.menu.shortcuts]]
-  #   name = "<i class='fas fa-fw fa-tags'></i> Tags"
-  #   url = "tags/"
-  #   weight = 40
+  [Languages.hi]
+    title = "आइए जानें लिनक्स"
+    languageName = "हिंदी"
+    landingPageName = "<i class='fas fa-home'></i> Home"
+    contentDir = "content/hindi"
+  
+    [[Languages.hi.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+    identifier = "ds"
+    url = "https://github.com/Prakash4844/Let-s-Learn-Linux"
+    weight = 10
+
+  [[Languages.hi.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
+    url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
+    weight = 11
+
+  [[Languages.hi.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+    identifier = "hugodoc"
+    url = "https://gohugo.io/documentation/"
+    weight = 20
