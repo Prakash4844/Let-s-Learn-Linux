@@ -1,7 +1,7 @@
 <H1 align="center">Let's Learn Linux</H1>
 
 > **Note**
-> This Project needs contributors to migrate content from Linux Journey to Let's Learn Linux. Only basic knowledge of HTML, Markdown and Hugo is needed for contribution. 
+> This Project needs contributors to migrate content from Linux Journey to Let's Learn Linux. Only basic knowledge of HTML, Markdown and Hugo is needed for contribution. please help us out if you can.
 
 #### Note: The Linux Journey site is now online again, so development of this project might be really slow or not at all.
 ### To clone Use following Method 
@@ -20,8 +20,8 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 ![Site Screenshot](https://user-images.githubusercontent.com/81550376/217021343-cba02685-8418-48ae-afeb-e0dc2993d53d.png)
 
 ## Contriubution:
-- For info on How to contribute See this [Contributing.md](CONTRIBUTING.md)
-- For a list of Contributors See this [Contributors.md](Contributors.md)
+- For info on How to contribute See this [Contributing.md](Contribute/Contributing/Readme.md)
+- For a list of Contributors See this [Contributors.md](Contribute/Contributors/readme.md)
 
 ## Resources:
 - Content is forked from [LinuxJourney](https://github.com/cindyq/linuxjourney)
