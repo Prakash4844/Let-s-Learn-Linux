@@ -12,13 +12,13 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 ## Grasshopper
 
-* [Getting Started]( {{< relref "content/english/1. Grasshopper/1. Getting Started/_index.en.md" >}} )- What is Linux? Get started with choosing a distribution and installation.
+* [Getting Started]( {{< relref "content/english/1. Grasshopper/1. Getting Started/_index.en.md" >}} ) - What is Linux? Get started with choosing a distribution and installation.
 
-* Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
+* [Command Line]( {{<relref "content/english/1. Grasshopper/2. Command Line/_index.en.md">}} ) - Learn the fundamentals of the command line, navigating files, directories and more.
 
-* Text-Fu - Learn basic text manipulation and navigation.
+* [Text-Fu]( {{<relref "content/english/1. Grasshopper/3. Text-Fu/_index.en.md">}} ) - Learn basic text manipulation and navigation.
 
-* Advanced Text-Fu - Navigate text like a Linux spider monkey with vim and emacs.
+* [Advanced Text-Fu]( {{<relref "content/english/1. Grasshopper/4. Advanced Text-Fu/_index.en.md">}} ) - Navigate text like a Linux spider monkey with vim and emacs.
 
 * User Management - Learn about user roles and management.
 
