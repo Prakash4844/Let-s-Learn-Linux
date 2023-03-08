@@ -10,4 +10,3 @@ text_color = "Black"
 shuffle_questions = "true"
 +++
 
-This is testing
