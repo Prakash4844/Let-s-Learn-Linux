@@ -5,15 +5,15 @@ ordersectionsby = "weight"
 weight = 1
 +++
 
-* Getting Started - What is Linux? Get started with choosing a distribution and installation.
+* [Getting Started]( {{< relref "1. Getting Started/_index.en.md" >}} ) - What is Linux? Get started with choosing a distribution and installation.
 
-* Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
+* [Command Line]( {{<relref "2. Command Line/_index.en.md">}} ) - Learn the fundamentals of the command line, navigating files, directories and more.
 
-* Text-Fu - Learn basic text manipulation and navigation.
+* [Text-Fu]( {{<relref "3. Text-Fu/_index.en.md">}} ) - Learn basic text manipulation and navigation.
 
-* Advanced Text-Fu - Navigate text like a Linux spider monkey with vim and emacs.
+* [Advanced Text-Fu]( {{<relref "4. Advanced Text-Fu/_index.en.md">}} ) - Navigate text like a Linux spider monkey with vim and emacs.
 
-* User Management - Learn about user roles and management.
+* [User Management]( {{<relref "5. User Management/_index.en.md">}} )- Learn about user roles and management.
 
 * Permissions - Learn about permission levels and modifying permissions.
 
