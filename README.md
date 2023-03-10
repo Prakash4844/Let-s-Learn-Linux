@@ -11,6 +11,11 @@
 - `git submodule init`
 - `git submodule update`
 
+> **Warning**
+> If you get any SSH error while cloning submodule, change the submodule link to https one from SSH one like this:
+
+`url = git@github.com:Prakash4844/hugo-theme-relearn.git` to `https://github.com/Prakash4844/hugo-theme-relearn.git`
+
 #### 2. Git Submodule init and update alternative
 
 Git recursive clone with submodules `git clone --recurse-submodules <url of repo>`
