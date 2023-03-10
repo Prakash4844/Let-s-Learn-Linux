@@ -3,7 +3,7 @@
 > **Note**
 > This Project needs contributors to pull content from Linux Journey to Let's Learn Linux. Only basic knowledge of HTML, Markdown and Hugo is needed for contribution. please help us out if you can.
 
-#### Note: The Linux Journey site is now online again, so development of this project might be really slow or not at all.
+#### Note: The Linux Journey site is now online again, so development of this project might be slow.
 ### To clone Use following Method 
 
 #### 1. By Git Submodule init and Update method 
