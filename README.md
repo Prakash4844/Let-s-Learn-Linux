@@ -15,6 +15,11 @@
 
 Git recursive clone with submodules `git clone --recurse-submodules <url of repo>`
 
+> **Warning**
+> If you get any SSH error while cloning submodule, change the submodule link to https one from SSH one like this:
+
+`url = git@github.com:Prakash4844/hugo-theme-relearn.git` to `https://github.com/Prakash4844/hugo-theme-relearn.git`
+
 ## Website is Currently Live at [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/)
 
 ![Site Screenshot](https://user-images.githubusercontent.com/81550376/217021343-cba02685-8418-48ae-afeb-e0dc2993d53d.png)
