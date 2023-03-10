@@ -27,7 +27,8 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 
 ## Website is Currently Live at [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/)
 
-![Site Screenshot](https://user-images.githubusercontent.com/81550376/217021343-cba02685-8418-48ae-afeb-e0dc2993d53d.png)
+![Site Screenshot](https://user-images.githubusercontent.com/81550376/224237248-c6d3d62c-56b4-4e0a-a613-8baa1f514e6c.png)
+
 
 ## Contriubution:
 - For info on How to contribute See this [CONTRIBUTING.md](https://github.com/Prakash4844/Let-s-Learn-Linux/tree/main/Contribute/Contributing)
