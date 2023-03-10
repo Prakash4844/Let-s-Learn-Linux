@@ -7,3 +7,6 @@ ordersectionsby = "weight"
 +++
 
 This is the Fourth chapter for learning Linux on Let’s Learn Linux.
+
+Navigate text like a Linux spider monkey with vim and emacs.
+

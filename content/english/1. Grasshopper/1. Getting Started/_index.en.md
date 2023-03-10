@@ -7,3 +7,5 @@ ordersectionsby = "weight"
 +++
 
 This is the first chapter for learning Linux on Let’s Learn Linux.
+
+What is Linux? Get started with choosing a distribution and installation.

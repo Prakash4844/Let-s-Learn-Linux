@@ -7,3 +7,5 @@ ordersectionsby = "weight"
 +++
 
 This is the Second chapter for learning Linux on Let’s Learn Linux.
+
+Learn the fundamentals of the command line, navigating files, directories and more.
