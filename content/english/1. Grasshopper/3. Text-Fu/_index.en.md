@@ -7,3 +7,5 @@ ordersectionsby = "weight"
 +++
 
 This is the Third chapter for learning Linux on Let’s Learn Linux.
+
+Learn basic text manipulation and navigation.
