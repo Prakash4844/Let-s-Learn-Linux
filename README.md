@@ -25,7 +25,7 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 
 `url = git@github.com:Prakash4844/hugo-theme-relearn.git` to `url = https://github.com/Prakash4844/hugo-theme-relearn.git`
 
-## Website is Currently Live at [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/)
+## Website is Currently Live at [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/) [![Deploy Let's Learn Linux site to Github Pages](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml)
 
 ![Site Screenshot](https://user-images.githubusercontent.com/81550376/224237248-c6d3d62c-56b4-4e0a-a613-8baa1f514e6c.png)
 
