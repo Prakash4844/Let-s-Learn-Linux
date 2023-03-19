@@ -15,9 +15,9 @@ weight = 1
 
 * [User Management]( {{<relref "5. User Management/_index.en.md">}} )- Learn about user roles and management.
 
-* Permissions - Learn about permission levels and modifying permissions.
+* [Permissions]( {{<relref "6. Permissions/_index.en.md">}} ) - Learn about permission levels and modifying permissions.
 
-* Processes - Learn about the running processes on the system.
+* [Processes]( {{<relref "7. Processes/_index.en.md">}} ) - Learn about the running processes on the system.
 
 * Packages - Learn all about the dpkg, apt-get, rpm and yum package management tools.
 
