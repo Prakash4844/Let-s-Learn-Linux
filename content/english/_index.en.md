@@ -20,11 +20,11 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Advanced Text-Fu]( {{<relref "content/english/1. Grasshopper/4. Advanced Text-Fu/_index.en.md">}} ) - Navigate text like a Linux spider monkey with vim and emacs.
 
-* [User Management]( {{<relref "content/english/1. Grasshopper/5. User Management/_index.en.md">}} )- Learn about user roles and management.
+* [User Management]( {{<relref "content/english/1. Grasshopper/5. User Management/_index.en.md">}} ) - Learn about user roles and management.
 
-* Permissions - Learn about permission levels and modifying permissions.
+* [Permissions]( {{<relref "content/english/1. Grasshopper/6. Permissions/_index.en.md">}} ) - Learn about permission levels and modifying permissions.
 
-* Processes - Learn about the running processes on the system.
+* [Processes]( {{<relref "content/english/1. Grasshopper/7. Processes/_index.en.md">}} ) - Learn about the running processes on the system.
 
 * Packages - Learn all about the dpkg, apt-get, rpm and yum package management tools.
 
