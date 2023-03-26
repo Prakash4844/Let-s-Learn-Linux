@@ -29,3 +29,7 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Commit History file
+git-history.txt
+git-history.pdf
