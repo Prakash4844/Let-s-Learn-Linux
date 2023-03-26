@@ -19,6 +19,6 @@ weight = 1
 
 * [Processes]( {{<relref "7. Processes/_index.en.md">}} ) - Learn about the running processes on the system.
 
-* Packages - Learn all about the dpkg, apt-get, rpm and yum package management tools.
+* [Packages]( {{<relref "8. Packages/_index.en.md">}} ) - Learn all about the dpkg, apt-get, rpm and yum package management tools.
 
 This is the first unit, and it is designed to familiarise you with the Linux environment. So let’s learn Linux...

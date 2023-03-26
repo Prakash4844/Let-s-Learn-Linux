@@ -26,7 +26,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Processes]( {{<relref "content/english/1. Grasshopper/7. Processes/_index.en.md">}} ) - Learn about the running processes on the system.
 
-* Packages - Learn all about the dpkg, apt-get, rpm and yum package management tools.
+* [Packages]( {{<relref "content/english/1. Grasshopper/8. Packages/_index.en.md">}} ) - Learn all about the dpkg, apt-get, rpm and yum package management tools.
 
 ## Journeyman
 
