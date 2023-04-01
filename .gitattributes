@@ -1,4 +1,4 @@
-# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
+# Example of a `.gitattributes` file which reclassifies `.md` files as HTML:
 *.md linguist-language=HTML
 
 # Replace any whitespace in the language name with hyphens:
