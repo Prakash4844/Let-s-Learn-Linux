@@ -1,5 +1,0 @@
-# Example of a `.gitattributes` file which reclassifies `.md` files as HTML:
-*.md linguist-language=HTML
-
-# Replace any whitespace in the language name with hyphens:
-*.glyphs linguist-language=OpenStep-Property-List
