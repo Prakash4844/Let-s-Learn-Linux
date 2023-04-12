@@ -33,3 +33,12 @@ hugo.linux
 # Commit History file
 git-history.txt
 git-history.pdf
+.idea/Let-s-Learn-Linux.iml
+.idea/misc.xml
+# .idea/.gitignore
+.idea/modules.xml
+.idea/vcs.xml
+.gitignore
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+Automatation/Markify.py
