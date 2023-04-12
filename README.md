@@ -4,6 +4,10 @@
 > This Project needs contributors to pull content from Linux Journey to Let's Learn Linux. Only basic knowledge of HTML, Markdown and Hugo is needed for contribution. please help us out if you can.
 
 #### Note: The Linux Journey site is now online again, so development of this project might be slow.
+
+## Website is Currently Live at [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/) [![Deploy Let's Learn Linux site to Github Pages](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml)
+
+![Site Screenshot](Site-Home.png)
 ### To clone Use following Method 
 
 #### 1. By Git Submodule init and Update method 
@@ -24,10 +28,6 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 > If you get any SSH error while cloning submodule, change the submodule link in .gitmodules file to https one from SSH one like this:
 
 `url = git@github.com:Prakash4844/hugo-theme-relearn.git` to `url = https://github.com/Prakash4844/hugo-theme-relearn.git`
-
-## Website is Currently Live at [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/) [![Deploy Let's Learn Linux site to Github Pages](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml)
-
-![Site Screenshot](Site-Home.png)
 
 
 ## Contriubution:
