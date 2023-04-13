@@ -36,7 +36,7 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 
 ## Resources:
 - Content is forked from [LinuxJourney](https://github.com/cindyq/linuxjourney)
-- Use Hugo version 0.110.0(**Important**, Version 0.111.0 breaks the quizdown shortcode. See #54), [Check it out](https://gohugo.io/)
+- Use Hugo version 0.110.0(**Important**, Version 0.111.0 breaks the quizdown shortcode. See issue [#54](/../../issues/54) ), [Check it out](https://gohugo.io/)
 - Hugo Relearn Theme, [Check it out](https://github.com/McShelby/hugo-theme-relearn)
 - Font Linux [Check it out](https://github.com/lkundrak/font-linux)
 - Hugo QuizDown [Check it out](https://github.com/bonartm/hugo-quiz)
