@@ -30,11 +30,11 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 ## Journeyman
 
-* Devices - Learn about Linux devices and how they interact with the kernel and user space.
+* [Devices]( {{<relref "content/english/2. Journeyman/1. Devices/_index.en.md">}} ) - Learn about Linux devices and how they interact with the kernel and user space.
 
-* The Filesystem - Learn about the Linux filesystem, the different types of filesystems, partitioning and more.
+* [The Filesystem]( {{<relref "content/english/2. Journeyman/2. Filesystem/_index.en.md">}} ) - Learn about the Linux filesystem, the different types of filesystems, partitioning and more.
 
-* Boot the System - Learn about the stages of the Linux boot process.
+* [Boot the System]( {{<relref "content/english/2. Journeyman/3. Boot The System/_index.en.md">}} )  - Learn about the stages of the Linux boot process.
 
 * Kernel - The most important part of the Linux system, learn about how it works and how to configure it.
 
