@@ -36,9 +36,9 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Boot the System]( {{<relref "content/english/2. Journeyman/3. Boot The System/_index.en.md">}} )  - Learn about the stages of the Linux boot process.
 
-* Kernel - The most important part of the Linux system, learn about how it works and how to configure it.
+* [Kernel]( {{<relref "content/english/2. Journeyman/4. Kernel/_index.en.md">}} )  - The most important part of the Linux system, learn about how it works and how to configure it.
 
-* Init - Learn about the different init systems, SysV, Upstart and systemd.
+* [Init]( {{<relref "content/english/2. Journeyman/5. Init/_index.en.md">}} )  - Learn about the different init systems, SysV, Upstart and systemd.
 
 * Process Utilization - Learn resource monitoring with top, load averages, iostat and more!
 
