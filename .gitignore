@@ -41,3 +41,4 @@ git-history.pdf
 .gitignore
 .idea/inspectionProfiles/Project_Default.xml
 .idea/inspectionProfiles/profiles_settings.xml
+.idea/
