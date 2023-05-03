@@ -40,9 +40,9 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Init]( {{<relref "content/english/2. Journeyman/5. Init/_index.en.md">}} )  - Learn about the different init systems, SysV, Upstart and systemd.
 
-* Process Utilization - Learn resource monitoring with top, load averages, iostat and more!
+* [Process Utilization]( {{<relref "content/english/2. Journeyman/6. Process Utilization/_index.en.md">}} ) - Learn resource monitoring with top, load averages, iostat and more!
 
-* Logging - Learn about system logs and the /var/log directory.
+* [Logging]( {{<relref "content/english/2. Journeyman/7. Logging/_index.en.md">}} ) - Learn about system logs and the /var/log directory.
 
 ## Networking Nomad
 
