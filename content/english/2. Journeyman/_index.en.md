@@ -15,8 +15,8 @@ weight = 2
 
 * [Init]( {{<relref "5. Init/_index.en.md">}} )  - Learn about the different init systems, SysV, Upstart and systemd.
 
-* Process Utilization - Learn resource monitoring with top, load averages, iostat and more!
+* [Process Utilization]( {{<relref "6. Process Utilization/_index.en.md">}} ) - Learn resource monitoring with top, load averages, iostat and more!
 
-* Logging - Learn about system logs and the /var/log directory.
+* [Logging]( {{<relref "7. Logging/_index.en.md">}} ) - Learn about system logs and the /var/log directory.
 
 This is Second unit, it is aimed to make you much more fimiliar with linux environment. So let's continue to Learn Linux... 
