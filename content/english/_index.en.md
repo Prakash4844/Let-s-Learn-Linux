@@ -10,7 +10,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 {{% /notice %}}
 
 
-## Grasshopper
+## [Grasshopper]( {{<relref "content/english/1. Grasshopper/_index.en.md">}} )
 
 * [Getting Started]( {{< relref "content/english/1. Grasshopper/1. Getting Started/_index.en.md" >}} ) - What is Linux? Get started with choosing a distribution and installation.
 
@@ -28,7 +28,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Packages]( {{<relref "content/english/1. Grasshopper/8. Packages/_index.en.md">}} ) - Learn all about the dpkg, apt-get, rpm and yum package management tools.
 
-## Journeyman
+## [Journeyman]( {{<relref "content/english/2. Journeyman/_index.en.md">}} )
 
 * [Devices]( {{<relref "content/english/2. Journeyman/1. Devices/_index.en.md">}} ) - Learn about Linux devices and how they interact with the kernel and user space.
 
@@ -44,9 +44,9 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Logging]( {{<relref "content/english/2. Journeyman/7. Logging/_index.en.md">}} ) - Learn about system logs and the /var/log directory.
 
-## Networking Nomad
+## [Networking Nomad]( {{<relref "content/english/3. Networking Nomad/_index.en.md">}} )
 
-* Network Sharing - Learn about network sharing with rsync, scp, nfs and more.
+* [Network Sharing]( {{<relref "content/english/3. Networking Nomad/1. Network Sharing/_index.en.md">}} ) - Learn about network sharing with rsync, scp, nfs and more.
 
 * Network Basics - Learn about networking basics and the TCP/IP model.
 
