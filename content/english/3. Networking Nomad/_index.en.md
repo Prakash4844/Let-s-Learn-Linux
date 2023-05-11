@@ -7,7 +7,7 @@ weight = 3
 
 * [Network Sharing]( {{<relref "1. Network Sharing/_index.en.md">}} ) - Learn about network sharing with rsync, scp, nfs and more.
 
-* Network Basics - Learn about networking basics and the TCP/IP model.
+* [Network Basics]( {{<relref "2. Network Basics/_index.en.md">}} ) - Learn about networking basics and the TCP/IP model.
 
 * Subnetting - Learn about subnets and how to do subnet arithmetic!
 
