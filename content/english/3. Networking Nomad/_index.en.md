@@ -5,7 +5,7 @@ ordersectionsby = "weight"
 weight = 3
 +++
 
-* Network Sharing - Learn about network sharing with rsync, scp, nfs and more.
+* [Network Sharing]( {{<relref "1. Network Sharing/_index.en.md">}} ) - Learn about network sharing with rsync, scp, nfs and more.
 
 * Network Basics - Learn about networking basics and the TCP/IP model.
 
