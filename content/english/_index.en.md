@@ -48,7 +48,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Network Sharing]( {{<relref "content/english/3. Networking Nomad/1. Network Sharing/_index.en.md">}} ) - Learn about network sharing with rsync, scp, nfs and more.
 
-* Network Basics - Learn about networking basics and the TCP/IP model.
+* [Network Basics]( {{<relref "content/english/3. Networking Nomad/2. Network Basics/_index.en.md">}} ) - Learn about networking basics and the TCP/IP model.
 
 * Subnetting - Learn about subnets and how to do subnet arithmetic!
 
