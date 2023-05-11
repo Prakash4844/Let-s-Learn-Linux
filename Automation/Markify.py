@@ -3,7 +3,7 @@ import os
 
 # Script only work in Pycharm
 
-path = "/home/zaphkiel/Documents/Test"
+path = os.path.abspath( os.path.dirname( __file__ ) )
 
 for file_name in os.listdir(path):
     if file_name.endswith(".md"):
