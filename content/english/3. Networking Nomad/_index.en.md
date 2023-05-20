@@ -9,7 +9,7 @@ weight = 3
 
 * [Network Basics]( {{<relref "2. Network Basics/_index.en.md">}} ) - Learn about networking basics and the TCP/IP model.
 
-* Subnetting - Learn about subnets and how to do subnet arithmetic!
+* [Subnetting]( {{<relref "3. Subnetting/_index.en.md">}} ) - Learn about subnets and how to do subnet arithmetic!
 
 * Routing - Learn how packets are routed across networks!
 

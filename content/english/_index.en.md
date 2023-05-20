@@ -50,7 +50,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Network Basics]( {{<relref "content/english/3. Networking Nomad/2. Network Basics/_index.en.md">}} ) - Learn about networking basics and the TCP/IP model.
 
-* Subnetting - Learn about subnets and how to do subnet arithmetic!
+* [Subnetting]( {{<relref "content/english/3. Networking Nomad/3. Subnetting/_index.en.md">}} ) - Learn about subnets and how to do subnet arithmetic!
 
 * Routing - Learn how packets are routed across networks!
 
