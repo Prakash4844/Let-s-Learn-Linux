@@ -11,7 +11,7 @@ weight = 3
 
 * [Subnetting]( {{<relref "3. Subnetting/_index.en.md">}} ) - Learn about subnets and how to do subnet arithmetic!
 
-* Routing - Learn how packets are routed across networks!
+* [Routing]( {{<relref "4. Routing/_index.en.md">}} ) - Learn how packets are routed across networks!
 
 * Network Config - Learn about network configuration using Linux tools!
 

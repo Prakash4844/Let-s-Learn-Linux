@@ -52,7 +52,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Subnetting]( {{<relref "content/english/3. Networking Nomad/3. Subnetting/_index.en.md">}} ) - Learn about subnets and how to do subnet arithmetic!
 
-* Routing - Learn how packets are routed across networks!
+* [Routing]( {{<relref "content/english/3. Networking Nomad/4. Routing/_index.en.md">}} ) - Learn how packets are routed across networks!
 
 * Network Config - Learn about network configuration using Linux tools!
 
