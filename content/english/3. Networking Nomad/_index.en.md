@@ -13,7 +13,7 @@ weight = 3
 
 * [Routing]( {{<relref "4. Routing/_index.en.md">}} ) - Learn how packets are routed across networks!
 
-* Network Config - Learn about network configuration using Linux tools!
+* [Network Config]( {{<relref "5. Network Config/_index.en.md">}} ) - Learn about network configuration using Linux tools!
 
 * Troubleshooting - Learn about common networking tools to help you diagnose and troubleshoot issues!
 

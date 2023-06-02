@@ -54,7 +54,7 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Routing]( {{<relref "content/english/3. Networking Nomad/4. Routing/_index.en.md">}} ) - Learn how packets are routed across networks!
 
-* Network Config - Learn about network configuration using Linux tools!
+* [Network Config]( {{<relref "content/english/3. Networking Nomad/5. Network Config/_index.en.md">}} ) - Learn about network configuration using Linux tools!
 
 * Troubleshooting - Learn about common networking tools to help you diagnose and troubleshoot issues!
 
