@@ -15,7 +15,7 @@ weight = 3
 
 * [Network Config]( {{<relref "5. Network Config/_index.en.md">}} ) - Learn about network configuration using Linux tools!
 
-* Troubleshooting - Learn about common networking tools to help you diagnose and troubleshoot issues!
+* [Troubleshooting]( {{<relref "6. Troubleshooting/_index.en.md">}} ) - Learn about common networking tools to help you diagnose and troubleshoot issues!
 
 * DNS - Everything and more that you wanted to know about DNS.
 

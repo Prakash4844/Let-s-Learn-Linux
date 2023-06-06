@@ -1,6 +1,6 @@
 baseURL = 'https://prakash4844.github.io/Let-s-Learn-Linux/'
 languageCode = 'en-us'
-title = "Let's Learn Linux "
+title = "Let's Learn Linux"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "relearn"
@@ -23,7 +23,7 @@ alwaysopen = false
 description = "This site is an attempt to revive the Famous Website 'LinuxJourney' and inherit the text data from it's repository."
 
 # Shows a checkmark for visited pages on the menu
-showVisitedLinks = false
+showVisitedLinks = true
 
 # Disable search function. It will hide search bar
 disableSearch = false
@@ -80,16 +80,16 @@ defaultContentLanguage = "en"
     url = "https://github.com/Prakash4844/Let-s-Learn-Linux"
     weight = 10
 
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
-    url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
-    weight = 11
+  # [[Languages.en.menu.shortcuts]]
+  #   name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
+  #   url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
+  #   weight = 11
 
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-    identifier = "hugodoc"
-    url = "https://gohugo.io/documentation/"
-    weight = 20
+  # [[Languages.en.menu.shortcuts]]
+  #   name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+  #   identifier = "hugodoc"
+  #   url = "https://gohugo.io/documentation/"
+  #   weight = 20
 
   [Languages.hi]
     title = "आइए जानें लिनक्स"
@@ -103,13 +103,13 @@ defaultContentLanguage = "en"
     url = "https://github.com/Prakash4844/Let-s-Learn-Linux"
     weight = 10
 
-  [[Languages.hi.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
-    url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
-    weight = 11
+  # [[Languages.hi.menu.shortcuts]]
+  #   name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
+  #   url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
+  #   weight = 11
 
-  [[Languages.hi.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-    identifier = "hugodoc"
-    url = "https://gohugo.io/documentation/"
-    weight = 20
+  # [[Languages.hi.menu.shortcuts]]
+  #   name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+  #   identifier = "hugodoc"
+  #   url = "https://gohugo.io/documentation/"
+  #   weight = 20
