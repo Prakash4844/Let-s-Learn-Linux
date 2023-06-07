@@ -37,9 +37,14 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 - For info on How to contribute See this [CONTRIBUTING.md](https://github.com/Prakash4844/Let-s-Learn-Linux/tree/main/Contribute/Contributing)
 - For a list of Contributors See this [Contributors.md](https://github.com/Prakash4844/Let-s-Learn-Linux/tree/main/Contribute/Contributors)
 
+## Locale Status:
+
+1. [x] English
+2. [ ] Hindi
+
 ## Resources:
 - Content is forked from [LinuxJourney](https://github.com/cindyq/linuxjourney)
-- Use Hugo version 0.110.0(**Important**, Version 0.111.0 breaks the quizdown shortcode. See issue [#54](/../../issues/54) ), [Check it out](https://gohugo.io/)
+- Use Hugo version 0.110.0(**Important**, Version 0.111.0 breaks the quizdown shortcode. See issue [#54](/../../issues/54) ) [Check it out](https://gohugo.io/)
 - Hugo Relearn Theme, [Check it out](https://github.com/McShelby/hugo-theme-relearn)
 - Font Linux [Check it out](https://github.com/lkundrak/font-linux)
 - Hugo QuizDown [Check it out](https://github.com/bonartm/hugo-quiz)
