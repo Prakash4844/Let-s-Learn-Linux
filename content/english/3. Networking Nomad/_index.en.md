@@ -17,6 +17,6 @@ weight = 3
 
 * [Troubleshooting]( {{<relref "6. Troubleshooting/_index.en.md">}} ) - Learn about common networking tools to help you diagnose and troubleshoot issues!
 
-* DNS - Everything and more that you wanted to know about DNS.
+* [DNS]( {{<relref "7. DNS/_index.en.md">}} )  - Everything and more that you wanted to know about DNS.
 
 This is Last unit, it is aimed to make you fimiliar with Networking Part of linux environment. So let's push through to Learn Linux... 

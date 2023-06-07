@@ -57,5 +57,5 @@ Because the goal of this project was to serve as a backup in case LinuxJourney d
 
 * [Troubleshooting]( {{<relref "content/english/3. Networking Nomad/6. Troubleshooting/_index.en.md">}} ) - Learn about common networking tools to help you diagnose and troubleshoot issues!
 
-* DNS - Everything and more that you wanted to know about DNS.
+* [DNS]( {{<relref "content/english/3. Networking Nomad/7. DNS/_index.en.md">}} ) - Everything and more that you wanted to know about DNS.
 
