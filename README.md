@@ -48,3 +48,12 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 - Hugo Relearn Theme, [Check it out](https://github.com/McShelby/hugo-theme-relearn)
 - Font Linux [Check it out](https://github.com/lkundrak/font-linux)
 - Hugo QuizDown [Check it out](https://github.com/bonartm/hugo-quiz)
+
+## Contributor ✨
+
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/sagargoswami2001"><img src="https://avatars.githubusercontent.com/u/88379870?v=4" width="100px;" alt=""/><br /><sub><b>sagargoswami2001</b></sub></a><br />
+    <a href="#question-sagargoswami2001" title="Answering Questions">💬</a> <a href="https://github.com/Prakash4844/Let-s-Learn-Linux/commits?author=sagargoswami2001" title="Documentation">📖</a>
+  </tr>
+</table>
