@@ -102,14 +102,4 @@ defaultContentLanguage = "en"
     identifier = "ds"
     url = "https://github.com/Prakash4844/Let-s-Learn-Linux"
     weight = 10
-
-  # [[Languages.hi.menu.shortcuts]]
-  #   name = "<i class='fab fa-fw fa-github'></i> Relearn Docs"
-  #   url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
-  #   weight = 11
-
-  # [[Languages.hi.menu.shortcuts]]
-  #   name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-  #   identifier = "hugodoc"
-  #   url = "https://gohugo.io/documentation/"
-  #   weight = 20
+    
