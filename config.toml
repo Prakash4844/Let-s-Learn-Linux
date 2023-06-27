@@ -73,7 +73,6 @@ defaultContentLanguage = "en"
     landingPageName = "<i class='fas fa-home'></i> Home"
     contentDir = "content/english"
 
-
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
     identifier = "ds"
@@ -98,6 +97,18 @@ defaultContentLanguage = "en"
     contentDir = "content/hindi"
   
     [[Languages.hi.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+    identifier = "ds"
+    url = "https://github.com/Prakash4844/Let-s-Learn-Linux"
+    weight = 10
+
+  [Languages.de]
+    title = "Lass uns Linux lernen"
+    languageName = "Deutsch"
+    landingPageName = "<i class='fas fa-home'></i> Home"
+    contentDir = "content/german"
+  
+    [[Languages.de.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
     identifier = "ds"
     url = "https://github.com/Prakash4844/Let-s-Learn-Linux"
