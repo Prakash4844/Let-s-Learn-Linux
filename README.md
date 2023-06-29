@@ -41,6 +41,7 @@ Git recursive clone with submodules `git clone --recurse-submodules <url of repo
 
 1. [x] English
 2. [ ] Hindi
+3. [ ] German
 
 ## Resources:
 - Content is forked from [LinuxJourney](https://github.com/cindyq/linuxjourney)
