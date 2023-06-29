@@ -11,7 +11,7 @@ Denn das Ziel dieses Projekts war es, als Backup für den Fall zu dienen, dass L
 
 ## Grashüpfer
 
-* Erste Schritte - Was ist Linux? Finde Hilfe bei der Auswahl einer Distribution und bei der Installation.
+* [Erste Schritte]( {{< relref "1. Grasshopper/1. Getting Started/_index.de.md" >}} )  - Was ist Linux? Finde Hilfe bei der Auswahl einer Distribution und bei der Installation.
 
 * Kommandozeile - Lerne die Grundlagen der Kommandozeile, navigiere Ordner, Dateien und mehr.
 

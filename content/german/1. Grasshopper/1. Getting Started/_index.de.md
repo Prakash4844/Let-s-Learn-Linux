@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "1. Getting Started"
+title = "1. Erste Schritte"
 date = 2023-06-29T14:55:49+05:30
 weight = 1
 ordersectionsby = "weight"
