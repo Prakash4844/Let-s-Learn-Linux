@@ -70,8 +70,10 @@ defaultContentLanguage = "en"
     title = "Let's Learn Linux"
     weight = 1
     languageName = "English"
-    landingPageName = "<i class='fas fa-home'></i> Home"
     contentDir = "content/english"
+
+  [Languages.en.params]
+    landingPageName = "<i class='fas fa-home'></i> Home"
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
@@ -93,8 +95,10 @@ defaultContentLanguage = "en"
   [Languages.hi]
     title = "आइए जानें लिनक्स"
     languageName = "हिंदी"
-    landingPageName = "<i class='fas fa-home'></i> Home"
     contentDir = "content/hindi"
+
+  [Languages.hi.params]
+    landingPageName = "<i class='fas fa-home'></i> Home"
   
     [[Languages.hi.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
@@ -105,8 +109,10 @@ defaultContentLanguage = "en"
   [Languages.de]
     title = "Lass uns Linux lernen"
     languageName = "Deutsch"
-    landingPageName = "<i class='fas fa-home'></i> Home"
     contentDir = "content/german"
+  
+  [Languages.de.params]
+    landingPageName = "<i class='fas fa-home'></i> Home"
   
     [[Languages.de.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
