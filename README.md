@@ -17,8 +17,8 @@ Ready to take the plunge into the world of Linux? Let's Learn Linux is the perfe
 ### 1. Using Docker 
 
 ```bash
-$ docker pull prakash4844/let-s-learn-linux
-$ docker run -p 1313:1313 -it let-s-learn-linux
+$ docker pull prakash4844/let-s-learn-linux:1.0
+$ docker run -p 1313:1313 -it let-s-learn-linux:1.0
 ```
 
 See Docker Repository: [Docker Repo](https://hub.docker.com/repository/docker/prakash4844/let-s-learn-linux/general)
