@@ -22,18 +22,29 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 
-#### 1. By Git Submodule init and Update method 
-- `git clone <url of repo>`
-- `git submodule init`
-- `git submodule update`
+### To clone Use following Method 
 
-OR
+### 1. By Git Submodule init and Update method 
 
-#### 2. Git Submodule init and update alternative
+```bash
+$ git clone https://github.com/Prakash4844/Let-s-Learn-Linux
+$ git submodule init
+$ git submodule update
+```
 
-Git recursive clone with submodules `git clone --recurse-submodules <url of repo>`
+## OR
 
-where "<url of repo>" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+### 2. Git Submodule init and update alternative
+
+```bash
+$ git clone --recurse-submodules https://github.com/Prakash4844/Let-s-Learn-Linux
+```
+
+> **Warning**
+> If you get any SSH error while cloning submodule, change the submodule link in .gitmodules file to https one from SSH one like this:
+
+`url = git@github.com:Prakash4844/hugo-theme-relearn.git` to `url = https://github.com/Prakash4844/hugo-theme-relearn.git`
+
 
 <img align="right" width="300" src="https://i.imgur.com/FuBbWhe.png" alt="copy URL to clipboard" />
 
