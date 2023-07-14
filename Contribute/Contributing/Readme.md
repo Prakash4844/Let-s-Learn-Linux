@@ -73,8 +73,11 @@ git switch -c command-line-pages
 Now open `Contributors.md` file in a text editor, add your name in table by adding two lines:
 
 ```html
-  <td align="center"><a href="your profile link"><img src="your profile avatar pic(github profile pic)" width="100px;" alt=""/><br /><sub><b>your_username</b></sub></a><br />
-  <a href="#question-your_username" title="Answering Questions">💬</a> <a href="https://github.com/Prakash4844/Let-s-Learn-Linux/commits?author=your_username" title="Documentation">📖</a>
+  <td align="center"><a href="your profile link"><img 
+        src="your profile avatar pic(github profile pic)" width="100px;" 
+        alt=""/><br/><sub><b>your_username</b></sub></a><br/>
+    <a href="#question-your_username" title="Answering Questions">💬</a> <a
+     href="https://github.com/Prakash4844/Let-s-Learn-Linux/commits?author=your_username" title="Documentation">📖</a>
 ```
 
 between ```<tr></tr>``` tags 
