@@ -5,8 +5,8 @@ title = "Lass uns Linux lernen"
 
 ![Test](Logo.svg)
 
-{{% notice style="warning" title="Linux Journey ist wieder online." icon="skull-crossbones" %}}
-Denn das Ziel dieses Projekts war es, als Backup für den Fall zu dienen, dass LinuxJourney nicht zurückkommt. Es besteht also eigentlich keine Notwendigkeit, es aufzubewahren, sodass die Entwicklung dieses Projekts möglicherweise langsam ist.
+{{% notice style="info" title="Neue Domäne." icon="info" %}}
+Die Website verwendet jetzt eine benutzerdefinierte Domain für. [Let's Learn Linux](https://letslearnlinux.tech/)
 {{% /notice %}}
 
 ## Grashüpfer
