@@ -1,7 +1,7 @@
 <H1 align="center">Let's Learn Linux</H1>
 
-Ready to take the plunge into the world of Linux? Let's Learn Linux is the perfect starting point! This user-friendly website offers a wealth of resources for beginners, on Linux basics, automation, bash, POSIX, systemd, and more. With Let's Learn Linux, you'll gain the skills and confidence you need to navigate this powerful operating system like a pro. So why wait? Checkout the website now!!! be a Linux learners today and unlock your full potential!
 
+Ready to take the plunge into the world of Linux? Let's Learn Linux is the perfect starting point! This user-friendly website offers a wealth of resources for beginners, on Linux basics, automation, bash, POSIX, systemd, and more. With Let's Learn Linux, you'll gain the skills and confidence you need to navigate this powerful operating system like a pro. So why wait? Checkout the website now!!! be a Linux learners today and unlock your full potential!
 
 
 > **Note**
@@ -10,7 +10,11 @@ Ready to take the plunge into the world of Linux? Let's Learn Linux is the perfe
 
 #### Note: The Linux Journey site is now online again, so development of this project might be slow.
 
-## Website is Currently Live at [Let's Learn Linux](https://letslearnlinux.tech/) [![Deploy Let's Learn Linux site to Github Pages](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml)
+
+## Website is Currently Live at: [Let's Learn Linux](https://letslearnlinux.tech)
+
+[![Deploy Let's Learn Linux site to Github Pages](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml)
+
 
 ## Want to read offline?
 
