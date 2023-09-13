@@ -5,8 +5,8 @@ title = "आइए जानें लिनक्स"
 
 ![Test](Logo.svg)
 
-{{% notice style="warning" title="Linux Journey ऑनलाइन वापस आ गया है." icon="skull-crossbones" %}}
-क्‍योंकि इस प्रोजेक्‍ट का लक्ष्‍य LinuxJourney के वापस न आने की स्थिति में बैकअप के रूप में काम करना था। इसलिए, वास्तव में इसे इधर-उधर रखने की कोई आवश्यकता नहीं है, इसलिए इस परियोजना का विकास धीमा हो सकता है
+{{% notice style="info" title="नया डोमेन" icon="info" %}}
+[Let's Learn Linux](https://letslearnlinux.tech/) अब एक कस्टम डोमेन का उपयोग करता है.
 {{% /notice %}}
 
 ## टिड्डी

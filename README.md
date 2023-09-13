@@ -10,9 +10,11 @@ Ready to take the plunge into the world of Linux? Let's Learn Linux is the perfe
 
 #### Note: The Linux Journey site is now online again, so development of this project might be slow.
 
+
 ## Website is Currently Live at: [Let's Learn Linux](https://letslearnlinux.tech)
 
 [![Deploy Let's Learn Linux site to Github Pages](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/Prakash4844/Let-s-Learn-Linux/actions/workflows/hugo.yml)
+
 
 ## Want to read offline?
 

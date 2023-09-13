@@ -5,8 +5,8 @@ title = "Let's Learn Linux"
 
 ![Test](Logo.svg)
 
-{{% notice style="warning" title="Linux Journey is Back Online." icon="skull-crossbones" %}}
-Because the goal of this project was to serve as a backup in case LinuxJourney did not return. So, there is actually no need to keep it around, so the development of this project might be slow.
+{{% notice style="info" title="New Domain." icon="info" %}}
+Website now use custom domain for [Let's Learn Linux](https://letslearnlinux.tech/)
 {{% /notice %}}
 
 ## Grasshopper
