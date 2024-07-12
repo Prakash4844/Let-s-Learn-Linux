@@ -35,7 +35,7 @@ See Docker Repository: [Docker Repo](https://hub.docker.com/repository/docker/pr
 ```bash
 $ git clone https://github.com/Prakash4844/Let-s-Learn-Linux
 $ git submodule init
-$ git submodule update
+$ git submodule update --progress
 ```
 
 ## OR
