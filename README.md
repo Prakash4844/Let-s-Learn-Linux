@@ -46,10 +46,19 @@ $ git submodule update --progress
 $ git clone --recurse-submodules https://github.com/Prakash4844/Let-s-Learn-Linux
 ```
 
+To run the server offline execute the following command
+
+```bash
+$ hugo server
+```
+Browse to http://localhost:1313/Let-s-Learn-Linux/ and you should see the website at your localhost.
+
 > **Warning**
-> If you get any SSH error while cloning submodule, change the submodule link in .gitmodules file to https one from SSH one like this:
+> If you get any SSH error while cloning submodule, change the submodule link in .gitmodules file to https one from SSH one or visa-versa like this:
 
 `url = git@github.com:Prakash4844/hugo-theme-relearn.git` to `url = https://github.com/Prakash4844/hugo-theme-relearn.git`
+OR
+`url = https://github.com/Prakash4844/hugo-theme-relearn.git` to `url = git@github.com:Prakash4844/hugo-theme-relearn.git`
 
 
 ## Contriubution:
